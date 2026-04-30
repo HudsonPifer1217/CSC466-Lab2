@@ -98,10 +98,6 @@ The best confusion matrix:
 
 Best model: Information Gain, threshold = 0.00 (tie with 0.05), accuracy = 88.14%
 
-The best confusion matrix (26x26, selected rows showing most confusion):
-
-Letters with highest error rates were B/D, E/C, O/Q/G, H/K/R -- all visually similar character shapes sharing overlapping pixel-feature distributions. Overall 88% accuracy across 26 classes is strong for a single decision tree.
-
 ---
 
 ### 2.4 Summary: Best Models
