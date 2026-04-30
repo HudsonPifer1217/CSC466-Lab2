@@ -2,8 +2,8 @@
 **Spring 2026**
 
 **Team Members:**
-- [YOUR NAME] — ffjones2004@gmail.com
-- [PARTNER NAME] — [PARTNER EMAIL]
+- Paco Jones — ffjones2004@gmail.com
+- Hudson Pifer — hupifer@calpoly.edu
 
 ---
 
